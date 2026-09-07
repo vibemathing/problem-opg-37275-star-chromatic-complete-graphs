@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "harness_snapshot_sha256": "e1f35083e0184ccedb6db87bb0311857270c39959dac5f662de43fd3274bc238",
+      "harness_version": "1.1.0",
+      "importer_policy_sha256": "a7650a8ba5be3fef370914b24a49b1118f57dc12f41980f21b11ef2b0a8267c1",
+      "source_manifest_sha256": "7dfdb41a68bfda314d663ba03b4b2a713ea194168ade5287e58c6434be5cc4fb",
+      "tree_sha256": "fc24228524a110430b1ac49be66f767cb12f7393c651464cccc940676c2fce13"
+    },
+    {
+      "harness_snapshot_sha256": "8089610370808ca2ee6c6707d0b3047f7e946dc54d4cdd524ab3547281aa7a5b",
+      "harness_version": "1.2.4",
+      "importer_policy_sha256": "a7650a8ba5be3fef370914b24a49b1118f57dc12f41980f21b11ef2b0a8267c1",
+      "source_manifest_sha256": "fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3",
+      "tree_sha256": "014b3e59711d67fdda2242c6c1df412c72709d981877dac7c268cf88f90677ae"
+    }
+  ],
+  "repository": "vibemathing/problem-opg-37275-star-chromatic-complete-graphs",
+  "repository_identity": {
+    "database_id": 1358797427,
+    "default_branch": "main",
+    "node_id": "R_kgDOUP2acw",
+    "visibility": "public"
+  },
+  "schema_version": "1.0.0"
+}
